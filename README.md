@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./assets/orbits.svg" alt="Colorful orbits around a smiling little star" width="100%" />
+  <img src="./assets/goku-pixel.png" alt="Pixel-art Goku" width="320" />
 </p>
